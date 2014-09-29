@@ -16,8 +16,9 @@ object Build extends Build {
     "net.tanesha.recaptcha4j" % "recaptcha4j" % "0.0.7",
     "com.google.code.gson" % "gson" % "2.2.4",
     "ws.securesocial" %% "securesocial" % "2.1.3",
+    "com.cloudphysics" % "jerkson_2.10" % "0.6.3",
     "org.scalacheck" %% "scalacheck" % "1.11.1",
-    "com.typesafe.play" %% "play-test" % "2.2.0",
+    // "com.typesafe.play" %% "play-test" % "2.2.0",
     "org.mockito" % "mockito-all" % "1.9.5",
     "postgresql" % "postgresql" % "9.1-901.jdbc4"
   )
